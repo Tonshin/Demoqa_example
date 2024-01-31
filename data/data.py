@@ -1,0 +1,6 @@
+first_name = "Konstantin"
+last_name = "Tonshin"
+email = "kt@example.com"
+number = "7987654321"
+subject = "Maths"
+address = "Example Street"
